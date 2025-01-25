@@ -48,7 +48,7 @@ The **C N Corporation Dashboard** is an interactive and insightful Power BI proj
 3. Explore the dashboard to interact with filters and visualizations.  
 
 ## 📷 Dashboard Preview  
-# ![CNCorportion Dashboard](C N Corportion Dashboard_powerbi.png)
+# ![CNCorportion Dashboard]([C N Corportion Dashboard_powerbi.png](https://github.com/swaraligk/CNCorportion_powerbi_dashboard/blob/main/CNCorportion_Dashboard_Powerbi.png))
 # ![Netflix Logo](netflix_logo.png)
 
 ---
