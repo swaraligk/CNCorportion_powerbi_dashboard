@@ -54,5 +54,5 @@ The C N Corporation Dashboard is an interactive and insightful Power BI project 
 Feel free to connect if you have questions or suggestions for improving this dashboard! 
 ## 📫 Let's Connect  
 - **LinkedIn**: [Swarali U. Gaonkar](https://www.linkedin.com/in/swaraligaonkar/)  
-- **GitHub**: [YourGitHubUsername]([https://github.com/swaraligk])  
+- **GitHub**: [swaraligk](https://github.com/swaraligk)  
 - **Email**: swaraligk16@gmail.com  
