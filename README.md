@@ -2,7 +2,7 @@
 # 📊 C N Corporation Dashboard  
 
 ## 📝 Overview  
-The **C N Corporation Dashboard** is an interactive and insightful Power BI project designed to help businesses monitor key performance metrics such as **Sales**, **Cost**, and **Profit**. It provides detailed visualizations and analytics for better decision-making and operational efficiency.  
+The C N Corporation Dashboard is an interactive and insightful Power BI project designed to help businesses monitor key performance metrics such as Sales, costs, and Profits. It provides detailed visualizations and analytics to improve decision-making and operational efficiency.  
 
 ## 🎯 Key Features  
 1. **Sales, Cost, and Profit Analysis**:  
@@ -15,7 +15,7 @@ The **C N Corporation Dashboard** is an interactive and insightful Power BI proj
 
 3. **Sum of Sales by Country (Map Visualization)**:  
    - A geographical map showcasing sales distribution across countries.  
-   - Enables regional sales analysis for targeting key markets.  
+   - Enables regional sales analysis to target key markets.  
 
 4. **Quantity Sold by Region (Pie Chart)**:  
    - Breaks down sales quantities by regions (North, South, Central).  
@@ -48,13 +48,11 @@ The **C N Corporation Dashboard** is an interactive and insightful Power BI proj
 3. Explore the dashboard to interact with filters and visualizations.  
 
 ## 📷 Dashboard Preview  
-# ![CNCorportion Dashboard]([C N Corportion Dashboard_powerbi.png](https://github.com/swaraligk/CNCorportion_powerbi_dashboard/blob/main/CNCorportion_Dashboard_Powerbi.png))
-# ![Netflix Logo](netflix_logo.png)
-![CNCorportion Dashboard](CNCorportion_Dashboard_Powerbi.png)
+# ![CNCorportion Dashboard](CNCorportion_Dashboard_Powerbi.png)
 ---
 
 Feel free to connect if you have questions or suggestions for improving this dashboard! 
 ## 📫 Let's Connect  
-- **LinkedIn**: [Swarali U. Gaonkar](https://www.linkedin.com/in/swarali-gaonkar)  
-- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
-- **Email**: swarali.gaonkar@example.com  
+- **LinkedIn**: [Swarali U. Gaonkar](https://www.linkedin.com/in/swaraligaonkar/)  
+- **GitHub**: [YourGitHubUsername]([https://github.com/swaraligk])  
+- **Email**: swaraligk16@gmail.com  
